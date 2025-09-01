@@ -1,4 +1,4 @@
-AI Usage Analysis
+## AI Usage Analysis
 
 This project explores **AI assistant usage** in the context of student
 life and everyday decision-making.\
