@@ -66,12 +66,11 @@ Based on the analysis, here are the **most effective actions**:
 
 ## 📊 Dashboard Preview
 
-The Power BI dashboard highlights:\
-- Usage frequency across tasks\
-- Differences in motivation (productivity vs learning)\
+The Power BI dashboard highlights
+- Usage frequency across tasks
+- Differences in motivation (productivity vs learning)
 - Trust and adoption patterns
-
-*(Add screenshots here when ready)*
+<img width="1187" height="627" alt="Image" src="https://github.com/user-attachments/assets/84dd52c2-adf1-43cd-b5a9-af03255b492e" />
 
 ------------------------------------------------------------------------
 
