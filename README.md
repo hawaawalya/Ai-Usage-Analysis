@@ -26,6 +26,7 @@ Instrumentation & Micro-Surveys: Menerapkan survei singkat setelah tugas penting
 
 
 ## 📊 Dashboard Preview
+<img width="1194" height="626" alt="Image" src="https://github.com/user-attachments/assets/1d0eae7d-90e3-4729-b5ce-789210666c71" />
 
 ##  📄 Laporan Lengkap
 📥[AI_Usage_Analysis_Storytelling.pptx]
