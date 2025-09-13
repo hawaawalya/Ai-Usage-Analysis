@@ -29,7 +29,7 @@ Instrumentation & Micro-Surveys: Menerapkan survei singkat setelah tugas penting
 <img width="1194" height="626" alt="Image" src="https://github.com/user-attachments/assets/1d0eae7d-90e3-4729-b5ce-789210666c71" />
 
 ##  📄 Laporan Lengkap
-📥[AI_Usage_Analysis_Storytelling.pptx]
+📥[AI_Usage_Analysis_Storytelling.pptx](https://github.com/user-attachments/files/22309382/AI_Usage_Analysis_Storytelling.pptx)
 
 ## 🎯 Rencana Aksi & Pengukuran
 Proyek ini menargetkan peningkatan rata-rata kepuasan menjadi ≥ 3.9 dan tingkat penyelesaian menjadi ≥ 78% pada periode berikutnya. Rencana 90 hari akan mencakup peluncuran MVP untuk template, beta Stuck-Buster, dan event terarah menjelang puncak beban kuliah
